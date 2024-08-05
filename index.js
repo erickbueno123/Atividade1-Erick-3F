@@ -4,4 +4,9 @@ console.log(meuNOME);
 console.log(idade);
 const altura = "1.80";
 console.log(altura);
-const peso = 65
+const peso = 65;
+console.log(peso);
+const sexo = "masculino";
+console.log(sexo);
+const cidade = "curitiba";
+console.log(cidade);
